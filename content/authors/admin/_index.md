@@ -3,7 +3,12 @@ title: Yusheng Wang
 role: ""
 bio: My research interests include SLAM, computer vision, marine robotics.
 interests: []
-social: []
+social:
+  - display:
+      header: false
+    icon: assets/media/icon.png
+    icon_pack: ai
+    link: https://scholar.google.co.jp/citations?user=YIAwOyUAAAAJ&hl=ja
 organizations:
   - name: The University of Tokyo
 education:
